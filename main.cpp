@@ -14,7 +14,7 @@ int main()
 {
 	// Объект, который, собственно, является главным окном приложения
     //Можно в параметрах прописать потом Style::fullscreen
-	RenderWindow window(VideoMode(338, 364), "Tan4iki!");
+	RenderWindow window(VideoMode(338, 364), "Battle_city!");
 //    Image main_tank_image;
 //    main_tank_image.loadFromFile("sprites/main_tank_forward.png");
 
